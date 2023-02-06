@@ -1,0 +1,15 @@
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.csproj.AssemblyReference.cache
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.AssemblyInfoInputs.cache
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.AssemblyInfo.cs
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.csproj.CoreCompileInputs.cache
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/bin/Debug/net6.0/InvoicingApp
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/bin/Debug/net6.0/InvoicingApp.deps.json
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/bin/Debug/net6.0/InvoicingApp.runtimeconfig.json
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/bin/Debug/net6.0/InvoicingApp.dll
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/bin/Debug/net6.0/InvoicingApp.pdb
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.dll
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/refint/InvoicingApp.dll
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.pdb
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/InvoicingApp.genruntimeconfig.cache
+/Users/piotr/RiderProjects/InvoicingApp/InvoicingApp/obj/Debug/net6.0/ref/InvoicingApp.dll
